@@ -1,4 +1,4 @@
 剑指offer的代码
 
-1. [1](./java/src/main/_1.java)
+1. [1](https://github.com/hq112415/sword2offer/blob/master/java/src/main/java/_1.java)
 
